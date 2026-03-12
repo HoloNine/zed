@@ -1,0 +1,23 @@
+id = "Klar"
+name = "Klar"
+version = "0.0.1"
+schema_version = 1
+description = ""
+repository = "https://github.com/HoloNine/zed"
+authors = ["HoloNine"]
+themes = ["themes/kalr.json"]
+icon_themes = []
+languages = []
+capabilities = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[agent_servers]
+
+[slash_commands]
