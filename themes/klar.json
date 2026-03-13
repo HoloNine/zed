@@ -35,7 +35,7 @@
         "vim.replace.background": "#ea999c",
         "background.appearance": "opaque",
         "border": "#181B25",
-        "border.variant": "#af8cca",
+        "border.variant": "#181B25",
         "border.focused": "#babbf1",
         "border.selected": "#ca9ee6",
         "border.transparent": "#a6d189",
